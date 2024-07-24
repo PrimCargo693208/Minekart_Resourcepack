@@ -6,6 +6,13 @@
             "ascent": 128,
             "height": 256,
             "chars": [ "\uEff1" ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/github.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [ "\uEff2" ]
         }
     ]
 }
